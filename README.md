@@ -19,7 +19,7 @@ x2​+x3​=1
 
 
 قيود لا مساواة: 
-1≤x1​⋅x2​≤5
+1≤x1​ . x2​≤5
 
 ## 🛠️ المزايا
 
@@ -47,7 +47,7 @@ pip install scikit-opt
 
 تشغيل الكود:
 
-python main.py
+python خوارزمية التطور التفاضلي DE (Differential Evolution).py
 
 ## 📊 مخرجات متوقعة
 
