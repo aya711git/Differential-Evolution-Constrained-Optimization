@@ -88,3 +88,10 @@ DE - best_y: [2.00097314]
 
 لا تتوقف عند المثال البسيط! ✨
 جرّب تعديل دالة الهدف، إضافة قيود جديدة، أو مقارنة Differential Evolution مع خوارزميات أخرى مثل Genetic Algorithm أو Particle Swarm Optimization. كل تجربة جديدة تعطيك فهم أعمق لكيفية عمل خوارزميات التحسين التطوري.
+
+
+## 🏷️ الكلمات المفتاحية
+
+Differential Evolution, DE, Constrained Optimization, Evolutionary Algorithm, Metaheuristic, Python, scikit-opt, Fitness Function, Optimization Problem, Multi-dimensional Optimization, Computational Optimization, AI Optimization, Learning Algorithms,
+
+التطور التفاضلي, التحسين مع القيود, خوارزميات تطورية, الخوارزميات الاستكشافية, بايثون, دالة اللياقة, مسائل تحسين متعددة الأبعاد, التحسين الحاسوبي, تحسين الذكاء الاصطناعي, خوارزميات التعلم
