@@ -1,4 +1,4 @@
-## Differential Evolution with Constraints 🌱
+## Differential Evolution with Constraints – التطور التفاضلي مع القيود 🌱
 
 هذا المشروع يعرض كيفية استخدام خوارزمية التطور التفاضلي (Differential Evolution – DE) لحل مسائل تحسين (Optimization Problems) مع قيود على المتغيرات، باستخدام مكتبة scikit-opt.
 
